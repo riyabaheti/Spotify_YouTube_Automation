@@ -1,3 +1,6 @@
+# This project takes my liked videos on YouTube and creates a new playlist on Spotify
+# and puts those liked videos as songs in the playlist.
+
 import json
 import requests
 import os
